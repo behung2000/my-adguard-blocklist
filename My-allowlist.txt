@@ -5,3 +5,4 @@
 ||chickgoddess.com^
 ||googlesyndication.com^
 ||cloudflareinsights.com^
+||cloudflare.com^ 
