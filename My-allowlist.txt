@@ -3,3 +3,5 @@
 ||anime47.love^
 ||cdn.digitalmasters.world^
 ||chickgoddess.com^
+||googlesyndication.com^
+||cloudflareinsights.com^
