@@ -7,3 +7,5 @@
 @@||googlesyndication.com^
 @@||cloudflareinsights.com^
 @@||cloudflare.com^
+@@||googleapis.com^
+@@||garena.com^
